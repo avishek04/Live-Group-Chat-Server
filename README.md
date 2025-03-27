@@ -11,7 +11,7 @@ The chat server allows multiple clients to connect, send, and receive messages i
 
 ## Prerequisites
 To run this project, ensure you have the following installed:
-- Java 8+ (if using Java)
+- Java 8+
 
 ## Installation
 Clone the repository:
@@ -29,11 +29,11 @@ java Server
 ## Usage
 1. **Start the server:**
    ```sh
-   java Server       # For Java
+   java Server
    ```
 2. **Connect a client:**
    ```sh
-   java Client       # For Java
+   java Client
    ```
 3. **Send and receive messages** between multiple connected clients.
 
