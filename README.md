@@ -1,4 +1,4 @@
-# Muti-threaded Live Group Chat Server Assignment
+# Muti-Threaded Live Group Chat Server Assignment
 
 ## Overview
 The chat server allows multiple clients to connect, send, and receive messages in real time.
